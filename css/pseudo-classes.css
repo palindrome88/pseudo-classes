@@ -1,0 +1,18 @@
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.inline {
+
+    display: block;
+    border: 1px solid black;
+    margin: 25px;
+}
+
+.n-child section:nth-last-of-type(2){
+
+    border: 1px solid black;
+}
